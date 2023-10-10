@@ -1,2 +1,5 @@
 # DIO-curso-de-html
-Inicio dos estudos sobre HTML/  Beginning of studies on HTML
+
+Nesse repositório vou colocar estudos e projetos com HTML.
+
+In this repository I will place studies and projects with HTML.
